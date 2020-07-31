@@ -11,7 +11,7 @@ title                    : "Liam Stuart"
 title_separator          : "-"
 name                     : &name "Liam Stuart"
 description              : &description "PhD Student at the University of St Andrews"
-url                      : liam-stuart.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liam-stuart.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liam-stuart.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ author:
   name             : ""
   avatar           : "profile.jpg"
   bio              : ""
-  employer         : "Universiy of St Andrews"
+  employer         : "University of St Andrews"
   location         :
   googlescholar    :
   email            :
