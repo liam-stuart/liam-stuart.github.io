@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Lawrence D. Lee"
+title                    : "Liam Stuart"
 title_separator          : "-"
-name                     : &name "Lawrence D. Lee"
+name                     : &name "Liam Stuart"
 description              : &description "PhD Student at the University of St Andrews"
-url                      : https://lawrence-d-lee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : liam-stuart.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lawrence-d-lee.github.io"
+repository               : "liam-stuart.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ author:
   bio              : ""
   employer         : "Universiy of St Andrews"
   location         :
-  googlescholar    : 
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lawrence-d-lee"
+  github           : "liam-stuart"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
