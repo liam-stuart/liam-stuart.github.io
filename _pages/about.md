@@ -9,13 +9,11 @@ redirect_from:
   -
 ---
 
-I am currently a PhD student I am part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/).
+I am currently a PhD student and part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/) at the University of St Andrews.
 
-My research focuses on fractal geometry, but I'm also interested in dynamical systems and number theory (particularly Diophantine approximation).
+My research interests are focused on fractal geometry and dynamical systems.
 
-I'm supervised by [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/) and [Dr Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/).
-
-My Erdös number is 2 (Lee → Vaughan → Erdös).
+My research is supervised by [Dr Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) and [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/), and is funded by the University of St Andrews.
 
 ## Contact details
 
@@ -24,4 +22,4 @@ The University of St Andrews
 St Andrews  
 KY16 9SS  
 Scotland  
-Email: ldl at st dash andrews dot ac.uk
+Email: ls220@st-andrews.ac.uk
