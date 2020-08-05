@@ -9,7 +9,7 @@ redirect_from:
   -
 ---
 
-I am currently a PhD student and part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/) at the University of St Andrews.
+I am currently a mathematics PhD student and part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/) at the University of St Andrews.
 
 My research interests are focused on fractal geometry and dynamical systems.
 
