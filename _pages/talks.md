@@ -19,7 +19,7 @@ Hyperbolic Geometry and Limit Sets
 
 ## Conferences/Meetings Attended
 Postgraduate Interdisciplinary Mathematical Symposium (PIMS)  
-*The Burn (Edzell), UK, 29/1/20-31/2/20*
+*The Burn (Edzell), UK, 27/1/20-29/1/20*
 
 [One day workshop on fractal geometry](http://www.mcs.st-andrews.ac.uk/~jmf32/FG19.html)    
 *University of St. Andrews, 2/9/19*
