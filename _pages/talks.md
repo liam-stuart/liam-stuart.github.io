@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Talks
-A perspective on Sullivan’s dictionary via Assouad-type dimensions
+A perspective on Sullivan’s dictionary via Assouad-type dimensions  
 *Pure Postgraduate Seminar, University of St Andrews, 15/2/21*
 
 Limit Sets of Kleinian Groups  
