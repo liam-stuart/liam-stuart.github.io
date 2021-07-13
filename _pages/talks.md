@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## Talks
+Sullivan’s dictionary and Assouad-type dimensions  
+*[Online Fractal Talks](https://people.maths.bris.ac.uk/~matmj/BBMOS.html), 3/6/21*
+
 A perspective on Sullivan’s dictionary via Assouad-type dimensions  
 *Pure Postgraduate Seminar, Online, 15/2/21*
 
