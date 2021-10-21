@@ -9,7 +9,6 @@ redirect_from:
   -
 ---
 
-I am currently a second year mathematics PhD student and part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/) at the University of St Andrews.
 I am currently a third year mathematics PhD student and part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/) at the University of St Andrews.
 
 My research is focused on fractal geometry and dynamical systems, and I'm also interested in hyperbolic geometry.
