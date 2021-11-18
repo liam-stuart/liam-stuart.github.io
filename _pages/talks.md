@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## Talks
+Refined horoball counting for Kleinian group actions  
+*Analysis Seminar, University of St Andrews, 16/11/21*
+
 Sullivan’s dictionary and Assouad-type dimensions  
 *[Online Fractal Talks](https://people.maths.bris.ac.uk/~matmj/BBMOS.html), 3/6/21*
 
