@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 Refined horoball counting for Kleinian group actions  
+*Pure Postgraduate Seminar, University of St Andrews, 28/2/22*  
+
+Refined horoball counting for Kleinian group actions  
 *Analysis Seminar, University of St Andrews, 16/11/21*
 
 Sullivan’s dictionary and Assouad-type dimensions  
