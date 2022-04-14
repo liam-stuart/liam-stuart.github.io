@@ -5,6 +5,12 @@ author_profile: true
 ---
 
 ## Talks
+Analysis group intro
+*Postgraduate Interdisciplinary Mathematical Symposium (PIMS), Edzell, 11/4/22*
+
+Refined horoball counting for Kleinian group actions  
+*Junior Ergodic Theory Meeting, Edinburgh, 30/3/22*  
+
 Refined horoball counting for Kleinian group actions  
 *Pure Postgraduate Seminar, University of St Andrews, 28/2/22*  
 
@@ -34,7 +40,13 @@ Hyperbolic Geometry and Limit Sets
 
 ## Conferences/Meetings Attended
 Postgraduate Interdisciplinary Mathematical Symposium (PIMS)  
+*The Burn (Edzell), UK, 11/4/22-13/4/22*  
+
+Junior Ergodic Theory Meeting  
+*Edinburgh, UK, 28/3/22-31/3/22*  
+
+Postgraduate Interdisciplinary Mathematical Symposium (PIMS)  
 *The Burn (Edzell), UK, 27/1/20-29/1/20*
 
 [One day workshop on fractal geometry](http://www.mcs.st-andrews.ac.uk/~jmf32/FG19.html)    
-*University of St. Andrews, 2/9/19*
+*University of St. Andrews, UK, 2/9/19*
