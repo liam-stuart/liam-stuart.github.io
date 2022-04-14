@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 ## Talks
-Analysis group intro
-*Postgraduate Interdisciplinary Mathematical Symposium (PIMS), Edzell, 11/4/22*
+Analysis group intro  
+*Postgraduate Interdisciplinary Mathematical Symposium (PIMS), The Burn (Edzell), 11/4/22*
 
 Refined horoball counting for Kleinian group actions  
 *Junior Ergodic Theory Meeting, Edinburgh, 30/3/22*  
