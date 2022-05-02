@@ -13,7 +13,7 @@ I am currently a third year mathematics PhD student and part of the [analysis re
 
 My research is focused on fractal geometry and dynamical systems, and I'm also interested in hyperbolic geometry.
 
-My research is supervised by [Dr Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) and [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/), and is funded by the University of St Andrews.
+My research is supervised by [Professor Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) and [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/), and is funded by the University of St Andrews.
 
 ## Contact details
 
