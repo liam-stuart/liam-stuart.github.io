@@ -13,7 +13,7 @@ author_profile: true
 
 [3] The Assouad spectrum of Kleinian limit sets and Patterson-Sullivan
   measure (with J.M. Fraser), [arXiv](https://arxiv.org/abs/2203.04931)  
-*Geometriae Dedicata* (to appear)  
+### Geometriae Dedicata (to appear)  
 
 [4] Assouad type dimensions of parabolic Julia sets (with J.M. Fraser), [arXiv](https://arxiv.org/abs/2203.04943)  
 *submitted.*  
