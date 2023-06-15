@@ -19,7 +19,7 @@ author_profile: true
 *submitted.*  
 
 ### Other  
-Limit sets, Julia sets and Sullivan’s dictionary : a dimension theoretic analysis, [St Andrews Research Repository](https://research-repository.st-andrews.ac.uk/handle/10023/26908)  
+Limit sets, Julia sets and Sullivan’s dictionary: a dimension theoretic analysis, [St Andrews Research Repository](https://research-repository.st-andrews.ac.uk/handle/10023/26908)  
 **PhD Thesis, University of St Andrews, (2023)**
 
 {% include base_path %}
