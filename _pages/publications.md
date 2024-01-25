@@ -9,7 +9,7 @@ author_profile: true
 **Bulletin of the American Mathematical Society** (to appear)   
 
 [2] Refined horoball counting and conformal measure for Kleinian group actions (with J.M. Fraser), [arXiv](https://arxiv.org/abs/2202.09178)   
-**Annales Academiae Scientiarum Fennicae-Mathematica** (to appear)     
+**Annales Fennici Mathematici** 48 (1), (2023), 325-344    
 
 [3] The Assouad spectrum of Kleinian limit sets and Patterson-Sullivan
   measure (with J.M. Fraser), [arXiv](https://arxiv.org/abs/2203.04931)  
