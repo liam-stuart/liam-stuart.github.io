@@ -17,9 +17,4 @@ My PhD was supervised by [Professor Jonathan Fraser](http://www.mcs.st-andrews.a
 
 ## Contact details
 
-School of Mathematics and Statistics  
-The University of St Andrews  
-St Andrews  
-KY16 9SS  
-Scotland  
-Email: ls220@st-andrews.ac.uk
+Email: liam.stuart34@hotmail.co.uk
