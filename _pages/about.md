@@ -9,9 +9,9 @@ redirect_from:
   -
 ---
 
-I recently finished an EPSRC funded Research Fellow post as part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/) at the University of St Andrews.
+I recently finished an EPSRC funded Research Fellow post as part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/) at the University of St Andrews, and am looking to transition into a role in data science.
 
-My research is focused on fractal geometry and dynamical systems, and I'm also interested in hyperbolic geometry.
+My research was focused on fractal geometry and dynamical systems, and I'm also interested in hyperbolic geometry.
 
 My PhD was supervised by [Professor Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) and [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/), and was funded by the University of St Andrews.
 
