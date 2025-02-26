@@ -13,7 +13,7 @@ I recently finished an EPSRC funded Research Fellow post as part of the [analysi
 
 My research was focused on fractal geometry and dynamical systems, and I'm also interested in hyperbolic geometry.
 
-My PhD was supervised by [Professor Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) and [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/), and was funded by the University of St Andrews.
+My PhD was supervised by [Professor Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) and [Professor Kenneth Falconer](https://kennethfalconer.github.io/), and was funded by the University of St Andrews.
 
 ## Contact details
 
