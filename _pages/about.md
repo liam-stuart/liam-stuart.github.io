@@ -9,7 +9,7 @@ redirect_from:
   -
 ---
 
-I recently finished an EPSRC funded Research Fellow post as part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/) at the University of St Andrews, and am looking to transition into a role in data science/analysis and machine learning. Proficiency demonstrated through a [stock price prediction app](https://github.com/liam-stuart/stock-prediction-app) published on GitHub.
+I recently finished an EPSRC funded Research Fellow post as part of the [analysis research group](https://maths-analysis.wp.st-andrews.ac.uk/) at the University of St Andrews, and am looking to transition into a role in data science/analysis and machine learning. Proficiency demonstrated through a [stock price prediction app](https://github.com/liam-stuart/stock-prediction-app) published on GitHub.
 
 My research was focused on fractal geometry and dynamical systems, and I'm also interested in hyperbolic geometry.
 
